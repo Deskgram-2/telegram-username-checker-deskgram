@@ -1,0 +1,3 @@
+@example_channel
+https://t.me/example_user
+https://t.me/example_bot
